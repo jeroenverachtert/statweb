@@ -1,0 +1,19 @@
+Welke doctype wordt hier gebruikt?
+
+- HTML
+
+4. Welke title wordt hier gebruikt?
+
+- SportFocus VZW - Zwemlessen - Sportkampen - Voetbalkampen
+
+5. Welke charset wordt hier gebruikt?
+
+- UTF 8
+
+6. Valideer de webpagina. Is deze pagina valide?
+
+- Deze website is niet valide.
+
+7. In de code staat iets ivm met favicon <link rel="icon" href="***.png" /> Zoek op het internet wat dit stukje code betekent. Waar zie je het effect van deze lijn code in Chrom
+
+- Deze code zorgt ervoor dat er een symbooltje naast de titel staat naast de website.
